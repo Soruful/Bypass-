@@ -127,10 +127,12 @@ And now run all your reg delete commands.
 
 -----------------------------------
 
-After all said and done when you are in a intense moment where you have to close out all the file Make sure everything suspicious is closed. (Cmd etc)
+After all said and done when you are in a intense moment where you in a position where your about to get caught! Make sure to close all your files/cmds
 
 
-If your file has a close option use it!!!!
+If your program has a self destruct button
+
+USE IT!!!!!!!!!!!!!!!!!
 
 
 
