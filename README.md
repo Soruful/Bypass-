@@ -1,8 +1,14 @@
 # Bypass-
 
-Hi! I currently am working on diffrent project that i am passion about and will plan on keeping them in the future for references (ifykyk)
+Hi, I currently am working on diffrent projects over diffrent period this one i have to showcase allowed me to stay hidden with my "Insane Skill"
+when it comes to Minecraft, Fivem, And different games that will look through your pc to see your "Insane Skill"
 
-The method showing is 1/3 methods that i current own S/O: revenge for making them for me!
+Keep in mind some of the program you use to aquire this insane skill will leave behind ceratin words to find it directly
+Use this if you have no other way/if the program dosent provide a self-destruct button/gui
+
+Discord; kimikuko
+
+Lmk if you need custom work for those certain programs!
 
 -----------------------------------------------------------------------------------------
 
