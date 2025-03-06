@@ -2,7 +2,7 @@ Disclaimer: i am no REPSONSIBLE for any bans for suspension of accounts or ANYTH
 
 Note: i have used this before and its a super simple and easy setups and works well against other people who think they can find it LUL
 
-⚠️Some program will leave CERTAIN residues that i currently have not excelled at⚠️
+⚠️Some program will leave CERTAIN residues that i currently have not excelled at⚠️                              
 ⚠️Use this with caution succes rate(From clients) 10/10⚠️
 
 DM if you are intrested in certain work
