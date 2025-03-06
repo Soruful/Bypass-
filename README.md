@@ -1,4 +1,4 @@
-Disclaimer: i am no REPSONSIBLE for any bans for suspension of accounts or ANYTHING!!!!!!
+**Disclaimer: i am not REPSONSIBLE for any bans for suspension of accounts or ANYTHING!!!!!!**
 
 Note: i have used this before and its a super simple and easy setups and works well against other people who think they can find it LUL
 
