@@ -94,7 +94,7 @@ reg delete "Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVers
 
 
 
-Alternate Stream View(https://www.majorgeeks.com/files/details/alternatestreamview.html) - Download the file, Scan your Special File path & if there's a ZONE.IDENTIFIER file with your File name in it - click on it and Press on the X at the top. Delete the file. 
+[Alternate Stream View](https://www.majorgeeks.com/files/details/alternatestreamview.html) - Download the file, Scan your Special File path & if there's a ZONE.IDENTIFIER file with your File name in it - click on it and Press on the X at the top. Delete the file. 
 
 Open CMD administrator and run the following command:
 Fsutil usn deletejournal /d C: 
