@@ -1,18 +1,20 @@
-# Bypass-
+Disclaimer: i am no REPSONSIBLE for any bans for suspension of accounts or ANYTHING!!!!!!
 
-Hi, I currently am working on diffrent projects over diffrent period this one i have to showcase allowed me to stay hidden with my "Insane Skill"
-when it comes to Minecraft, Fivem, And different games that will look through your pc to see your "Insane Skill"
+Note: i have used this before and its a super simple and easy setups and works well against other people who think they can find it LUL
 
-Keep in mind some of the program you use to aquire this insane skill will leave behind ceratin words to find it directly
-Use this if you have no other way/if the program dosent provide a self-destruct button/gui
+⚠️Some program will leave CERTAIN residues that i currently have not excelled at⚠️
+⚠️Use this with caution succes rate(From clients) 10/10⚠️
 
-Discord; kimikuko
+DM if you are intrested in certain work
 
-Lmk if you need custom work for those certain programs!
+Discord:
+
+Kimikoku
+
 
 -----------------------------------------------------------------------------------------
 
-Step 1
+First Step
 
 Download your file that you plan on hidiing and give it a legit name & put it in it's respectful folder!
 
@@ -62,7 +64,10 @@ Press on OK, Double click on the task again, and save the "Location"
 
 ----------------------------
 
-Next Find out Bam Directory 
+
+Second Step 
+
+
 
 Open registry editor and paste this path at the top:
 Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings
@@ -76,7 +81,10 @@ Now right click on the folder you've found, Press Permissions, Go to the "Admini
 
 ----------------------------
 
-Finally 
+
+First Last Step
+
+
 
 Let's first identify the name of the key that would be generated.
 
@@ -108,7 +116,10 @@ Fsutil usn deletejournal /d C:
 
 ------------------------------------------------------
 
-Your Done!
+
+Finally (Very Last Step)
+
+
 
 Open CMD as Administrator as soon as your PC starts up. 
 and run this command: 
@@ -127,12 +138,9 @@ And now run all your reg delete commands.
 
 -----------------------------------
 
-After all said and done when you are in a intense moment where you in a position where your about to get caught! Make sure to close all your files/cmds
+By any chance if you are in a position where you are sharing your screen close every application except for the ones you need open (game your playing ofc)
 
-
-If your program has a self destruct button
-
-USE IT!!!!!!!!!!!!!!!!!
+Dm or star for vouches ;))
 
 
 
