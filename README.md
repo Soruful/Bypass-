@@ -4,6 +4,8 @@ Hi! I currently am working on diffrent project that i am passion about and will 
 
 The method showing is 1/3 methods that i current own S/O: revenge for making them for me!
 
+-----------------------------------------------------------------------------------------
+
 Step 1
 
 Download your file that you plan on hidiing and give it a legit name & put it in it's respectful folder!
