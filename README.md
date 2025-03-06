@@ -2,7 +2,6 @@
 Making a bypass method, great use on fivem, Minecraft, any other servers that will pc check you 
 
 
-![alt text](file:///C:/Users/Razer/OneDrive/Desktop/Screenshot%202025-03-05%20223811.png)
 
 
 
@@ -12,6 +11,8 @@ Making a bypass method, great use on fivem, Minecraft, any other servers that wi
 
 
 
+
+![Screenshot 2025-03-05 223811](https://github.com/user-attachments/assets/c47ef3e5-dbfa-49ca-838a-b86102516fa8)
 
 
 
