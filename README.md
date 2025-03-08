@@ -115,7 +115,7 @@ reg delete "Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVers
 Alternate Stream View - Download the file, Scan your cheat's path & if there's a ZONE.IDENTIFIER file with your cheat's name in it - click on it and Press on the X at the top. Delete the file. 
 Open CMD as administrator and run the following command:
 Fsutil usn deletejournal /d C:
-⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟
+⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟
 
 
 
